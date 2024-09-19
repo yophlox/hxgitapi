@@ -1,0 +1,10 @@
+{
+  "name": "hxgit",
+  "url" : "https://github.com/yophlox/hxgit",
+  "license": "Apache",
+  "tags": ["github", "api", "git"],
+  "description": "A haxelib made to interact with the Github API",
+  "version": "1.0.0",
+  "releasenote": "Version 1 Release",
+  "contributors": ["YoPhlox"]
+}
