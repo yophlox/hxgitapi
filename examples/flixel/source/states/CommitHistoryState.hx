@@ -99,7 +99,7 @@ class CommitHistoryState extends FlxState
             loadAvatar(commit, avatar);
         }
 
-        var titleText = new FlxText(0, 40, 0, '$repoName Commit History (Total: $total_commits)', 22);
+        var titleText = new FlxText(0, 40, 0, '$repoName Commit History', 22);
         titleText.screenCenter(X);
         titleText.setBorderStyle(SHADOW, FlxColor.BLACK, 2, 1);
         titleText.scrollFactor.set();
