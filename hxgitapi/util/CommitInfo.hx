@@ -1,6 +1,6 @@
-package hxgit.util;
+package hxgitapi.util;
 
-import hxgit.util.User;
+import hxgitapi.util.User;
 
 class CommitInfo {
     public var sha(default, null):String;

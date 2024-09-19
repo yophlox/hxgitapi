@@ -1,9 +1,9 @@
-package hxgit;
+package hxgitapi;
 
 import haxe.Http;
 import haxe.Json;
-import hxgit.util.User;
-import hxgit.util.CommitInfo;
+import hxgitapi.util.User;
+import hxgitapi.util.CommitInfo;
 
 class API {
     private static final API_URL = "https://api.github.com";

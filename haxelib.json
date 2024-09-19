@@ -1,6 +1,6 @@
 {
-  "name": "hxgit",
-  "url" : "https://github.com/yophlox/hxgit",
+  "name": "hxgitapi",
+  "url" : "https://github.com/yophlox/hxgitapi",
   "license": "Apache",
   "tags": ["github", "api", "git"],
   "description": "A haxelib made to interact with the Github API",

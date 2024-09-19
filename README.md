@@ -1,4 +1,4 @@
-# hxgit
+# hxgitapi
 
 * A haxelib to interact with the Github API
 
@@ -12,8 +12,8 @@ haxelib git hxgit https://github.com/yophlox/hxgit.git
 ### Usage Example:
 
 ```haxe
-import hxgit.API;
-import hxgit.util.User;
+import hxgitapi.API;
+import hxgitapi.util.User;
 
 var api = new API();
 var username = "yophlox";

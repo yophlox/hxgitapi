@@ -1,4 +1,4 @@
-package hxgit.util;
+package hxgitapi.util;
 
 class User {
     public var login(default, null):String;

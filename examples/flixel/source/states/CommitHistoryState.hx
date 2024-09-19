@@ -8,8 +8,8 @@ import flixel.group.FlxGroup;
 import flixel.math.FlxMath;
 import flixel.text.FlxText;
 import flixel.util.FlxColor;
-import hxgit.API;
-import hxgit.util.CommitInfo;
+import hxgitapi.API;
+import hxgitapi.util.CommitInfo;
 import openfl.display.BitmapData;
 
 using StringTools;

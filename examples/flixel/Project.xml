@@ -33,7 +33,7 @@
 	<!-- _______________________________ Libraries ______________________________ -->
 
 	<haxelib name="flixel"/>
-	<haxelib name="hxgit"/>
+	<haxelib name="hxgitapi"/>
 	<haxelib name="hxcpp-debug-server" if="debug"/> <!--You can remove this if you don't need it-->
 
 	<!-- ______________________________ Haxedefines _____________________________ -->

@@ -1,6 +1,6 @@
 package states;
 
-import hxgit.API;
+import hxgitapi.API;
 import flixel.FlxG;
 import flixel.FlxObject;
 import flixel.FlxSprite;
@@ -10,7 +10,7 @@ import flixel.system.FlxAssets;
 import flixel.text.FlxText;
 import flixel.util.FlxColor;
 import haxe.Json;
-import hxgit.util.User;
+import hxgitapi.util.User;
 import openfl.display.BitmapData;
 
 using StringTools;
