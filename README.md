@@ -6,7 +6,7 @@
 
 Run: 
 ```
-haxelib git hxgit https://github.com/yophlox/hxgit.git
+haxelib git hxgitapi https://github.com/yophlox/hxgitapi.git
 ```
 
 ### Usage Example:
